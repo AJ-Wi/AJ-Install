@@ -1,0 +1,16 @@
+{
+  "name": "aj-install",
+  "version": "0.0.1",
+  "description": "archlinux installer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "arch",
+    "linux",
+    "install"
+  ],
+  "author": "wladimir perez",
+  "license": "MIT"
+}
